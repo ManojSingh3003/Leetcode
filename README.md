@@ -54,6 +54,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ManojSingh3003/Leetcode/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManojSingh3003/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0721-accounts-merge](https://github.com/ManojSingh3003/Leetcode/tree/master/0721-accounts-merge) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManojSingh3003/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ManojSingh3003/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/ManojSingh3003/Leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
