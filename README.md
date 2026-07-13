@@ -37,6 +37,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ManojSingh3003/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ManojSingh3003/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0496-next-greater-element-i](https://github.com/ManojSingh3003/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ManojSingh3003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/ManojSingh3003/Leetcode/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManojSingh3003/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ManojSingh3003/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ManojSingh3003/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0496-next-greater-element-i](https://github.com/ManojSingh3003/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ManojSingh3003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ManojSingh3003/Leetcode/tree/master/0605-can-place-flowers) |
 | [0721-accounts-merge](https://github.com/ManojSingh3003/Leetcode/tree/master/0721-accounts-merge) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0020-valid-parentheses](https://github.com/ManojSingh3003/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ManojSingh3003/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ManojSingh3003/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/ManojSingh3003/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -109,4 +112,8 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ManojSingh3003/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ManojSingh3003/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
