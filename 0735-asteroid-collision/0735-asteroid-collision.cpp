@@ -12,12 +12,12 @@ public:
             while(!st.empty() && st.top()>0 && x<0){
                 if(abs(x)==abs(st.top())){
                     st.pop();
-                    alive=false;
+                    alive=0;
                     break;
                 }else if(abs(x)>abs(st.top())){
                     st.pop();
                 }else {
-                    alive=false;
+                    alive=0;
                     break;
                 }
             }
