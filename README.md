@@ -178,6 +178,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ManojSingh3003/Leetcode/tree/master/0146-lru-cache) |
+| [0237-delete-node-in-a-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0460-lfu-cache](https://github.com/ManojSingh3003/Leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
