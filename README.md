@@ -37,6 +37,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ManojSingh3003/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ManojSingh3003/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/ManojSingh3003/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ManojSingh3003/Leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/ManojSingh3003/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ManojSingh3003/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManojSingh3003/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/ManojSingh3003/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManojSingh3003/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/ManojSingh3003/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ManojSingh3003/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ManojSingh3003/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
