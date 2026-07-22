@@ -97,6 +97,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManojSingh3003/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManojSingh3003/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/ManojSingh3003/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0146-lru-cache](https://github.com/ManojSingh3003/Leetcode/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0460-lfu-cache](https://github.com/ManojSingh3003/Leetcode/tree/master/0460-lfu-cache) |
+| [0876-middle-of-the-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
