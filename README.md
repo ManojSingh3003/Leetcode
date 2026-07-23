@@ -113,6 +113,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ManojSingh3003/Leetcode/tree/master/0002-add-two-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManojSingh3003/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ManojSingh3003/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ManojSingh3003/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ManojSingh3003/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
