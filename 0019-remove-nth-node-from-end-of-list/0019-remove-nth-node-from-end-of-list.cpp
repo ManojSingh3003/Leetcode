@@ -25,7 +25,7 @@ public:
         if (i == n) {
             ListNode* temp = head;
             head = head->next;
-            delete temp; // Good memory management
+            delete temp;
             return head;
         }
 
