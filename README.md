@@ -40,6 +40,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0141-linked-list-cycle](https://github.com/ManojSingh3003/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ManojSingh3003/Leetcode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ManojSingh3003/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0460-lfu-cache](https://github.com/ManojSingh3003/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ManojSingh3003/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ManojSingh3003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0141-linked-list-cycle](https://github.com/ManojSingh3003/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ManojSingh3003/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManojSingh3003/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0142-linked-list-cycle-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ManojSingh3003/Leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ManojSingh3003/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
