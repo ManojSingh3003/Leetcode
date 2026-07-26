@@ -69,6 +69,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0735-asteroid-collision](https://github.com/ManojSingh3003/Leetcode/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/ManojSingh3003/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/ManojSingh3003/Leetcode/tree/master/0827-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/ManojSingh3003/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/ManojSingh3003/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ManojSingh3003/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2104-sum-of-subarray-ranges](https://github.com/ManojSingh3003/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0162-find-peak-element](https://github.com/ManojSingh3003/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ManojSingh3003/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/ManojSingh3003/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/ManojSingh3003/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
