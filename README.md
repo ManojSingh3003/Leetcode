@@ -53,6 +53,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ManojSingh3003/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ManojSingh3003/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/ManojSingh3003/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ManojSingh3003/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ManojSingh3003/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ManojSingh3003/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ManojSingh3003/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0778-swim-in-rising-water](https://github.com/ManojSingh3003/Leetcode/tree/master/0778-swim-in-rising-water) |
 ## Heap (Priority Queue)
 |  |
