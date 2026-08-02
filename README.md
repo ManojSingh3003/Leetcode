@@ -74,6 +74,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ManojSingh3003/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ManojSingh3003/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ManojSingh3003/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1539-kth-missing-positive-number](https://github.com/ManojSingh3003/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2104-sum-of-subarray-ranges](https://github.com/ManojSingh3003/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## String
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0875-koko-eating-bananas](https://github.com/ManojSingh3003/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ManojSingh3003/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ManojSingh3003/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/ManojSingh3003/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
