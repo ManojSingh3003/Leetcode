@@ -71,6 +71,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0827-making-a-large-island](https://github.com/ManojSingh3003/Leetcode/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/ManojSingh3003/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/ManojSingh3003/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ManojSingh3003/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ManojSingh3003/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ManojSingh3003/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2104-sum-of-subarray-ranges](https://github.com/ManojSingh3003/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0540-single-element-in-a-sorted-array](https://github.com/ManojSingh3003/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/ManojSingh3003/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/ManojSingh3003/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ManojSingh3003/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ManojSingh3003/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Heap (Priority Queue)
 |  |
