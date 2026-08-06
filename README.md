@@ -47,6 +47,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0560-subarray-sum-equals-k](https://github.com/ManojSingh3003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ManojSingh3003/Leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/ManojSingh3003/Leetcode/tree/master/0721-accounts-merge) |
+| [0846-hand-of-straights](https://github.com/ManojSingh3003/Leetcode/tree/master/0846-hand-of-straights) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManojSingh3003/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Array
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0735-asteroid-collision](https://github.com/ManojSingh3003/Leetcode/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/ManojSingh3003/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/ManojSingh3003/Leetcode/tree/master/0827-making-a-large-island) |
+| [0846-hand-of-straights](https://github.com/ManojSingh3003/Leetcode/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/ManojSingh3003/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/ManojSingh3003/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ManojSingh3003/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0148-sort-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0148-sort-list) |
 | [0621-task-scheduler](https://github.com/ManojSingh3003/Leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/ManojSingh3003/Leetcode/tree/master/0721-accounts-merge) |
+| [0846-hand-of-straights](https://github.com/ManojSingh3003/Leetcode/tree/master/0846-hand-of-straights) |
 ## Matrix
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0402-remove-k-digits](https://github.com/ManojSingh3003/Leetcode/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/ManojSingh3003/Leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/ManojSingh3003/Leetcode/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/ManojSingh3003/Leetcode/tree/master/0846-hand-of-straights) |
 ## Prefix Sum
 |  |
 | ------- |
