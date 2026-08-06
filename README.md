@@ -45,6 +45,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0460-lfu-cache](https://github.com/ManojSingh3003/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ManojSingh3003/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ManojSingh3003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/ManojSingh3003/Leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/ManojSingh3003/Leetcode/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManojSingh3003/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Array
@@ -66,6 +67,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0540-single-element-in-a-sorted-array](https://github.com/ManojSingh3003/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ManojSingh3003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ManojSingh3003/Leetcode/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/ManojSingh3003/Leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/ManojSingh3003/Leetcode/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/ManojSingh3003/Leetcode/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/ManojSingh3003/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0148-sort-list) |
+| [0621-task-scheduler](https://github.com/ManojSingh3003/Leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/ManojSingh3003/Leetcode/tree/master/0721-accounts-merge) |
 ## Matrix
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ManojSingh3003/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/ManojSingh3003/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/ManojSingh3003/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-swim-in-rising-water](https://github.com/ManojSingh3003/Leetcode/tree/master/0778-swim-in-rising-water) |
 ## Two Pointers
 |  |
@@ -143,6 +147,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | ------- |
 | [0402-remove-k-digits](https://github.com/ManojSingh3003/Leetcode/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/ManojSingh3003/Leetcode/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/ManojSingh3003/Leetcode/tree/master/0621-task-scheduler) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -259,4 +264,8 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ManojSingh3003/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ManojSingh3003/Leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
