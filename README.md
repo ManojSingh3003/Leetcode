@@ -95,6 +95,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/ManojSingh3003/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/ManojSingh3003/Leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/ManojSingh3003/Leetcode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/ManojSingh3003/Leetcode/tree/master/0846-hand-of-straights) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ManojSingh3003/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/ManojSingh3003/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/ManojSingh3003/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/ManojSingh3003/Leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/ManojSingh3003/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ManojSingh3003/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0148-sort-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManojSingh3003/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/ManojSingh3003/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManojSingh3003/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/ManojSingh3003/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0146-lru-cache](https://github.com/ManojSingh3003/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ManojSingh3003/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ManojSingh3003/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/ManojSingh3003/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/ManojSingh3003/Leetcode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/ManojSingh3003/Leetcode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ManojSingh3003/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ManojSingh3003/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ManojSingh3003/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/ManojSingh3003/Leetcode/tree/master/0901-online-stock-span) |
 ## Linked List
