@@ -6,6 +6,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ManojSingh3003/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0721-accounts-merge](https://github.com/ManojSingh3003/Leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/ManojSingh3003/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/ManojSingh3003/Leetcode/tree/master/0827-making-a-large-island) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ManojSingh3003/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ManojSingh3003/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManojSingh3003/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ManojSingh3003/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ManojSingh3003/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ManojSingh3003/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManojSingh3003/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ManojSingh3003/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ManojSingh3003/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ManojSingh3003/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManojSingh3003/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ManojSingh3003/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
