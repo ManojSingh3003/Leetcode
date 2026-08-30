@@ -1,53 +1,37 @@
 class Solution {
 private:
-    void build(int i,int l,int r,vector<int> &h,vector<int> &seg){
+    void build(int i,int l,int r, vector <int>&nums,vector<int>&seg){
+        if(l==r){seg[i]=nums[l];return;}
+        
+        int mid= (r-l)/2 +l;
+        
+        build(2*i+1,l,mid,nums,seg );
+        build(2*i+2,mid+1,r,nums,seg);
+        
+        seg[i]=max(seg[2*i+1],seg[2*i+2]);
+       
+    }
+
+    int query_update(int i,int l,int r,int x,vector<int>&seg){
+        if(seg[i]<x)return -1;
+
         if(l==r){
-            seg[i]=l;
-            return;
+            seg[i]=0;
+            return l;
         }
 
         int mid=(r-l)/2+l;
-        build(2*i+1,l,mid,h,seg);
-        build(2*i+2,mid+1,r,h,seg);
-
-        if( h[seg[2*i+1]]>h[seg[2*i+2]] ){
-            seg[i]=seg[2*i+1];
+        int ans=-1;
+        if(seg[2*i+1]>=x){
+            ans=query_update(2*i+1,l,mid,x,seg);
         }else{
-            seg[i]=seg[2*i+2];
+            ans=query_update(2*i+2,mid+1,r,x,seg);
         }
+        seg[i]=max(seg[2*i+1],seg[2*i+2]);
+
+        return ans;
     }
 
-    int query(int i,int l,int r,int st,int ed,vector<int>& h,vector<int>&seg){
-        if(r<st || l>ed) return -1;
-        else if(l>=st && r<=ed) return seg[i];
-        else{
-            int mid=(r-l)/2+l;
-            int left= query(2*i+1,l,mid,st,ed,h,seg);
-            int right= query(2*i+2,mid+1,r,st,ed,h,seg);
-
-            if(left==-1)return right;
-            if(right==-1)return left;
-            if(h[left]>h[right])return left;
-            else return right;
-        }
-    }
-    void update(int i,int l,int r,int ind,vector<int>&h,vector<int> & seg){
-        if(l==r){
-            return;
-        }
-        int mid= (r-l)/2+l;
-        if(ind>mid){
-            update(2*i+2,mid+1,r,ind,h,seg);
-        }else{
-            update(2*i+1,l,mid,ind,h,seg);
-        }
-
-        if( h[seg[2*i+1]]>h[seg[2*i+2]] ){
-            seg[i]=seg[2*i+1];
-        }else{
-            seg[i]=seg[2*i+2];
-        }
-    }
 
 public:
     int numOfUnplacedFruits(vector<int>& fruits, vector<int>& baskets) {
@@ -57,25 +41,7 @@ public:
         int res=n;
         for(int i=0;i<n;i++){
             int x=fruits[i];
-            int ans=-1;
-            int st=0,ed=n-1;
-            while(st<=ed){
-                int mid=(ed-st)/2+st;
-                int ind=query(0,0,n-1,st,mid,baskets,seg);
-                
-                if(ind!=-1 && baskets[ind]>=x ){
-                    ans=ind;
-                    ed=mid-1;
-                }else{
-                    st=mid+1;
-                }
-            }
-            cout<<i<<" "<<ans<<endl;
-            if(ans!=-1){
-                res--;
-                baskets[ans]=0;
-                update(0,0,n-1,ans,baskets,seg);
-            }
+            if(query_update(0,0,n-1,x,seg)!=-1)res--;
         }
         return res;
     }
