@@ -86,6 +86,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ManojSingh3003/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/ManojSingh3003/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2104-sum-of-subarray-ranges](https://github.com/ManojSingh3003/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## String
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ManojSingh3003/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ManojSingh3003/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/ManojSingh3003/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Heap (Priority Queue)
 |  |
@@ -285,11 +287,13 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0023-merge-k-sorted-lists](https://github.com/ManojSingh3003/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/ManojSingh3003/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ManojSingh3003/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0148-sort-list) |
+| [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -338,9 +342,15 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+## Ordered Set
+|  |
+| ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
