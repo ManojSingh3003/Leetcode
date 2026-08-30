@@ -86,6 +86,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ManojSingh3003/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/ManojSingh3003/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2104-sum-of-subarray-ranges](https://github.com/ManojSingh3003/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## String
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ManojSingh3003/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ManojSingh3003/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/ManojSingh3003/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0621-task-scheduler](https://github.com/ManojSingh3003/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ManojSingh3003/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/ManojSingh3003/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0901-online-stock-span](https://github.com/ManojSingh3003/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ManojSingh3003/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/ManojSingh3003/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Design
 |  |
 | ------- |
@@ -215,6 +219,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0901-online-stock-span](https://github.com/ManojSingh3003/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ManojSingh3003/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/ManojSingh3003/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -330,4 +335,12 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ManojSingh3003/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
