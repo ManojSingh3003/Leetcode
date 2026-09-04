@@ -96,6 +96,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManojSingh3003/Leetcode/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/ManojSingh3003/Leetcode/tree/master/0038-count-and-say) |
 | [0208-implement-trie-prefix-tree](https://github.com/ManojSingh3003/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManojSingh3003/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/ManojSingh3003/Leetcode/tree/master/0402-remove-k-digits) |
