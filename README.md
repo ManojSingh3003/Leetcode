@@ -98,6 +98,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0020-valid-parentheses](https://github.com/ManojSingh3003/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ManojSingh3003/Leetcode/tree/master/0038-count-and-say) |
 | [0208-implement-trie-prefix-tree](https://github.com/ManojSingh3003/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0214-shortest-palindrome](https://github.com/ManojSingh3003/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManojSingh3003/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/ManojSingh3003/Leetcode/tree/master/0402-remove-k-digits) |
 | [0686-repeated-string-match](https://github.com/ManojSingh3003/Leetcode/tree/master/0686-repeated-string-match) |
@@ -377,17 +378,32 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/ManojSingh3003/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/ManojSingh3003/Leetcode/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/ManojSingh3003/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/ManojSingh3003/Leetcode/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/ManojSingh3003/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/ManojSingh3003/Leetcode/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/ManojSingh3003/Leetcode/tree/master/0686-repeated-string-match) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ManojSingh3003/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ManojSingh3003/Leetcode/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ManojSingh3003/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
