@@ -13,7 +13,7 @@ public:
         }
         for(int i=1;i<log;i++){
             for(int v=0;v<n;v++){
-                if(up[v][i-1]!=-1) up[v][i]= up[ up[v][i-1] ][i-1];
+                if(up[v][i-1] != -1) up[v][i]= up[ up[v][i-1] ][i-1];
             }
         }
         
