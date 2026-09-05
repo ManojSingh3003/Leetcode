@@ -12,6 +12,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0827-making-a-large-island](https://github.com/ManojSingh3003/Leetcode/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManojSingh3003/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ManojSingh3003/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ManojSingh3003/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0778-swim-in-rising-water](https://github.com/ManojSingh3003/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/ManojSingh3003/Leetcode/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ManojSingh3003/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ManojSingh3003/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Union-Find
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0875-koko-eating-bananas](https://github.com/ManojSingh3003/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ManojSingh3003/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ManojSingh3003/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ManojSingh3003/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1539-kth-missing-positive-number](https://github.com/ManojSingh3003/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0460-lfu-cache](https://github.com/ManojSingh3003/Leetcode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ManojSingh3003/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/ManojSingh3003/Leetcode/tree/master/0901-online-stock-span) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ManojSingh3003/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Queue
 |  |
 | ------- |
@@ -243,6 +247,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0042-trapping-rain-water](https://github.com/ManojSingh3003/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ManojSingh3003/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/ManojSingh3003/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ManojSingh3003/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Simulation
 |  |
 | ------- |
@@ -328,6 +333,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0700-search-in-a-binary-search-tree](https://github.com/ManojSingh3003/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ManojSingh3003/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ManojSingh3003/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ManojSingh3003/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -408,4 +414,12 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ManojSingh3003/Leetcode/tree/master/0214-shortest-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ManojSingh3003/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Binary Lifting
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ManojSingh3003/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
