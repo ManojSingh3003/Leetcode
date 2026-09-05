@@ -92,6 +92,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [3477-fruits-into-baskets-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ManojSingh3003/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0560-subarray-sum-equals-k](https://github.com/ManojSingh3003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ManojSingh3003/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
 | ------- |
