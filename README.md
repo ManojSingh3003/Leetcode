@@ -178,6 +178,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | ------- |
 | [0002-add-two-numbers](https://github.com/ManojSingh3003/Leetcode/tree/master/0002-add-two-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManojSingh3003/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3870-count-commas-in-range](https://github.com/ManojSingh3003/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Greedy
 |  |
 | ------- |
