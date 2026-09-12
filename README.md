@@ -92,6 +92,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [2104-sum-of-subarray-ranges](https://github.com/ManojSingh3003/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManojSingh3003/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3477-fruits-into-baskets-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ManojSingh3003/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0621-task-scheduler](https://github.com/ManojSingh3003/Leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/ManojSingh3003/Leetcode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/ManojSingh3003/Leetcode/tree/master/0846-hand-of-straights) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManojSingh3003/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1539-kth-missing-positive-number](https://github.com/ManojSingh3003/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManojSingh3003/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3477-fruits-into-baskets-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0907-sum-of-subarray-minimums](https://github.com/ManojSingh3003/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ManojSingh3003/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManojSingh3003/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
