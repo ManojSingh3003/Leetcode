@@ -115,6 +115,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0940-distinct-subsequences-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManojSingh3003/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/ManojSingh3003/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0876-middle-of-the-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/ManojSingh3003/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ManojSingh3003/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0621-task-scheduler](https://github.com/ManojSingh3003/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/ManojSingh3003/Leetcode/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManojSingh3003/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0907-sum-of-subarray-minimums](https://github.com/ManojSingh3003/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ManojSingh3003/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManojSingh3003/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
