@@ -57,6 +57,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManojSingh3003/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManojSingh3003/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManojSingh3003/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ManojSingh3003/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Array
@@ -93,6 +94,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ManojSingh3003/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManojSingh3003/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/ManojSingh3003/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManojSingh3003/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2104-sum-of-subarray-ranges](https://github.com/ManojSingh3003/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManojSingh3003/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ManojSingh3003/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1539-kth-missing-positive-number](https://github.com/ManojSingh3003/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManojSingh3003/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManojSingh3003/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ManojSingh3003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ManojSingh3003/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManojSingh3003/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ManojSingh3003/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -292,6 +296,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ManojSingh3003/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManojSingh3003/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManojSingh3003/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Monotonic Queue
 |  |
 | ------- |
