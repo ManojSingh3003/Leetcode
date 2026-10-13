@@ -107,6 +107,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [3525-find-x-value-of-array-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ManojSingh3003/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ManojSingh3003/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/ManojSingh3003/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -142,6 +143,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1096-brace-expansion-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManojSingh3003/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ManojSingh3003/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManojSingh3003/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ManojSingh3003/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
