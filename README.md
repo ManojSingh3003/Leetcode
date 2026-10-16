@@ -60,6 +60,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManojSingh3003/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManojSingh3003/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ManojSingh3003/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Array
@@ -99,6 +100,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManojSingh3003/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2104-sum-of-subarray-ranges](https://github.com/ManojSingh3003/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManojSingh3003/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3477-fruits-into-baskets-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -423,11 +425,13 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3477-fruits-into-baskets-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
