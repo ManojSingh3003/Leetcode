@@ -99,6 +99,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManojSingh3003/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/ManojSingh3003/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManojSingh3003/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/ManojSingh3003/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0846-hand-of-straights](https://github.com/ManojSingh3003/Leetcode/tree/master/0846-hand-of-straights) |
 | [1096-brace-expansion-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManojSingh3003/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ManojSingh3003/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ManojSingh3003/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ManojSingh3003/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1539-kth-missing-positive-number](https://github.com/ManojSingh3003/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManojSingh3003/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManojSingh3003/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
