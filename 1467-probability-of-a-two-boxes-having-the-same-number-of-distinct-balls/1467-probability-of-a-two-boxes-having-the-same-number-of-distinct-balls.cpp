@@ -22,7 +22,7 @@ private:
             else ans+= way*solve(i+1,b1+x,d1+1,d2+1,balls,n);
         }
 
-        return ans;
+        return memo[i][b1][d1][d2]=ans;
     }
 
 public:
