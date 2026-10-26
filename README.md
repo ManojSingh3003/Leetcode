@@ -98,6 +98,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ManojSingh3003/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ManojSingh3003/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/ManojSingh3003/Leetcode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
+| [1340-jump-game-v](https://github.com/ManojSingh3003/Leetcode/tree/master/1340-jump-game-v) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ManojSingh3003/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/ManojSingh3003/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ManojSingh3003/Leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0721-accounts-merge](https://github.com/ManojSingh3003/Leetcode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/ManojSingh3003/Leetcode/tree/master/0846-hand-of-straights) |
 | [1096-brace-expansion-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1340-jump-game-v](https://github.com/ManojSingh3003/Leetcode/tree/master/1340-jump-game-v) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManojSingh3003/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0115-distinct-subsequences](https://github.com/ManojSingh3003/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0907-sum-of-subarray-minimums](https://github.com/ManojSingh3003/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1340-jump-game-v](https://github.com/ManojSingh3003/Leetcode/tree/master/1340-jump-game-v) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/ManojSingh3003/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ManojSingh3003/Leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManojSingh3003/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
