@@ -142,6 +142,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ManojSingh3003/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/ManojSingh3003/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ManojSingh3003/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ManojSingh3003/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
@@ -320,6 +321,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManojSingh3003/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ManojSingh3003/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ManojSingh3003/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ManojSingh3003/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManojSingh3003/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/ManojSingh3003/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | ------- |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/ManojSingh3003/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ManojSingh3003/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ManojSingh3003/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -524,6 +527,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ManojSingh3003/Leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ManojSingh3003/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -532,6 +536,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/ManojSingh3003/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ManojSingh3003/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Bipartite Graph
 |  |
 | ------- |
