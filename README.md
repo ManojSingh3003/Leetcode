@@ -38,6 +38,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManojSingh3003/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/ManojSingh3003/Leetcode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ManojSingh3003/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ManojSingh3003/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ManojSingh3003/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ManojSingh3003/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ManojSingh3003/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0703-kth-largest-element-in-a-stream](https://github.com/ManojSingh3003/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/ManojSingh3003/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ManojSingh3003/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -549,4 +552,8 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/ManojSingh3003/Leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ManojSingh3003/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
