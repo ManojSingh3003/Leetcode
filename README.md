@@ -105,6 +105,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ManojSingh3003/Leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManojSingh3003/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/ManojSingh3003/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1575-count-all-possible-routes](https://github.com/ManojSingh3003/Leetcode/tree/master/1575-count-all-possible-routes) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManojSingh3003/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/ManojSingh3003/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/ManojSingh3003/Leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManojSingh3003/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ManojSingh3003/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1575-count-all-possible-routes](https://github.com/ManojSingh3003/Leetcode/tree/master/1575-count-all-possible-routes) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ManojSingh3003/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ManojSingh3003/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -556,4 +558,8 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ManojSingh3003/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Memoization
+|  |
+| ------- |
+| [1575-count-all-possible-routes](https://github.com/ManojSingh3003/Leetcode/tree/master/1575-count-all-possible-routes) |
 <!---LeetCode Topics End-->
