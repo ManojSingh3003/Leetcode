@@ -13,6 +13,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManojSingh3003/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ManojSingh3003/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ManojSingh3003/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/ManojSingh3003/Leetcode/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0827-making-a-large-island](https://github.com/ManojSingh3003/Leetcode/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManojSingh3003/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ManojSingh3003/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/ManojSingh3003/Leetcode/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1539-kth-missing-positive-number](https://github.com/ManojSingh3003/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1575-count-all-possible-routes](https://github.com/ManojSingh3003/Leetcode/tree/master/1575-count-all-possible-routes) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManojSingh3003/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/ManojSingh3003/Leetcode/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/ManojSingh3003/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1575-count-all-possible-routes](https://github.com/ManojSingh3003/Leetcode/tree/master/1575-count-all-possible-routes) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ManojSingh3003/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ManojSingh3003/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/ManojSingh3003/Leetcode/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/ManojSingh3003/Leetcode/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManojSingh3003/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -426,6 +430,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0701-insert-into-a-binary-search-tree](https://github.com/ManojSingh3003/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ManojSingh3003/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ManojSingh3003/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/ManojSingh3003/Leetcode/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
