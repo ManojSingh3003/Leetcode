@@ -120,6 +120,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [3525-find-x-value-of-array-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ManojSingh3003/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ManojSingh3003/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3693-climbing-stairs-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ManojSingh3003/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/ManojSingh3003/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/ManojSingh3003/Leetcode/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManojSingh3003/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/ManojSingh3003/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Simulation
 |  |
 | ------- |
