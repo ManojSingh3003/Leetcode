@@ -115,6 +115,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [2089-find-target-indices-after-sorting-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/ManojSingh3003/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ManojSingh3003/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/ManojSingh3003/Leetcode/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1340-jump-game-v](https://github.com/ManojSingh3003/Leetcode/tree/master/1340-jump-game-v) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ManojSingh3003/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManojSingh3003/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ManojSingh3003/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ManojSingh3003/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManojSingh3003/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2179-count-good-triplets-in-an-array](https://github.com/ManojSingh3003/Leetcode/tree/master/2179-count-good-triplets-in-an-array) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ManojSingh3003/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ManojSingh3003/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManojSingh3003/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3477-fruits-into-baskets-ii](https://github.com/ManojSingh3003/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManojSingh3003/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ManojSingh3003/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ManojSingh3003/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ManojSingh3003/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
@@ -342,6 +346,7 @@ A collection of LeetCode questions. - Created using [LeetHub v2](https://github.
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ManojSingh3003/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/ManojSingh3003/Leetcode/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManojSingh3003/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ManojSingh3003/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/ManojSingh3003/Leetcode/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/ManojSingh3003/Leetcode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManojSingh3003/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
